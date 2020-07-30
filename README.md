@@ -10,6 +10,6 @@
 - 💪 "Be brave enough to be bad at something new"
 - ⚡ Fun fact: I love watch horror films, I'm ambidextrous and addicted in post-its.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micaelleapds)](linkedin.com/in/micaelle-aparecida-0b31751a4)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micaelleapds)](https://www.linkedin.com/in/micaelle-aparecida-0b31751a4)
 
 ![Gato teclando](https://github.com/Micaelleapds/Micaelleapds/blob/master/tenor.gif)
